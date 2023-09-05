@@ -49,7 +49,7 @@ d3.json(url).then(function(datain) {
 			title: `<b>Top 10 OTUs for Selected Subject ID<b>`,
 			xaxis: { title: "Sample Value"},
             width: 400,
-			height: 550
+            height: 550
 		};
 
         // Plotting Bar graph using Plotly
